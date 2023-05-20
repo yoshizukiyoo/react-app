@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul,
+ol,
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+body {
+	width: 100%;
+	overflow-x: hidden;
+}
+fieldset {
+	border: none;
+}
+table {
+	border-collapse: collapse;
+}
+.h {
+	position: absolute;
+	top: -999999px;
+	opacity: 0;
+}
+body {
+	background: #efefef;
+}
